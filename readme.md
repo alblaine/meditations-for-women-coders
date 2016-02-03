@@ -1,0 +1,1 @@
+This repo is a place for meditations on code, for women & by women.
